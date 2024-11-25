@@ -1,5 +1,4 @@
 package strings;
-
 public class CountOfAlphabetsInSortedOrder {
     public static void main(String[] args) {
         String str = "geeksforgeeks";

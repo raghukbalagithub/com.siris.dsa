@@ -1,7 +1,6 @@
 package strings;
 
 import java.util.Scanner;
-
 public class Anagram {
 
     public void isAnagram(String ref, String tar) {

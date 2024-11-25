@@ -1,5 +1,4 @@
 package strings;
-
 public class CheckStringIsASubSequence {
 
     public boolean isSubSequence(String str1, String str2, int strsize1, int strsize2) {

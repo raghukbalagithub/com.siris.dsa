@@ -1,7 +1,5 @@
 package strings;
 
-
-
 public class StringPalindrome {
 
     public void isPalUsingStringBuilder(String str){
